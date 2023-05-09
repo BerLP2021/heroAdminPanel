@@ -1,0 +1,52 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire",
+      "avatar": "https://cdn.pixabay.com/photo/2019/08/01/21/40/spiderman-4378357_960_720.png"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind",
+      "avatar": "https://cdn.pixabay.com/photo/2016/03/31/20/56/creepy-1296100_960_720.png"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water",
+      "avatar": "https://cdn.pixabay.com/photo/2022/11/07/01/18/valkyries-7575349_960_720.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "value": "all",
+      "descr": "все",
+      "class": "btn-outline-dark"
+    },
+    {
+      "value": "fire",
+      "descr": "Огонь",
+      "class": "btn-danger"
+    },
+    {
+      "value": "water",
+      "descr": "Вода",
+      "class": "btn-primary"
+    },
+    {
+      "value": "wind",
+      "descr": "Ветер",
+      "class": "btn-success"
+    },
+    {
+      "value": "earth",
+      "descr": "Земля",
+      "class": "btn-secondary"
+    }
+  ]
+}
