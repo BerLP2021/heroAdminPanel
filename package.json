@@ -44,7 +44,6 @@
     ]
   },
   "devDependencies": {
-    "classnames": "^2.3.1",
-    "json-server": "^0.17.3"
+    "classnames": "^2.3.1"
   }
 }
