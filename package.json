@@ -1,6 +1,7 @@
 {
   "name": "hero_admin_panel",
   "version": "0.1.0",
+  "main": "api/server.js",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
